@@ -1,0 +1,9 @@
+site_name: Task Tracker App
+nav:
+  - Home: index.md
+  - Introduction: Introduction.md
+  - Scope: scope.md
+  - Requirements: functional.md
+  - Use Cases: usecase.md
+theme:
+  name: material
