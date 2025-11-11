@@ -1,13 +1,13 @@
 # Functional and Use Case Documentation
 
-**Project:** Task Tracker App
+**Project:** Task Tracker System
 
 ---
 
 ## 1. Introduction
 
 ### 1.1 Project Overview
-The **Task Tracker App** is a web and mobile platform that helps users create, manage, and monitor their daily tasks efficiently.
+The **Task Tracker System** is a web and mobile platform that helps users create, manage, and monitor their daily tasks efficiently.
 
 **Key Features:**<br>
 - Secure user registration & login  

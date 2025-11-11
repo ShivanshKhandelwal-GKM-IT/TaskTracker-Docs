@@ -13,7 +13,7 @@
 - Sync tasks with Google Calendar or Outlook.
 ---
 
-##  Mobile Application Layer
+###  Mobile Application Layer
 
 The mobile application layer will:
 

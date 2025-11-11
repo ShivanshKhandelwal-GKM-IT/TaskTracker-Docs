@@ -12,7 +12,7 @@
 | **FR4** | **Edit Task** | Users can edit any field of an existing task; **updates** sync instantly. |
 | **FR5** | **Delete Task** | Tasks can be permanently deleted with a **5-second undo** option. |
 | **FR6** | **Mark Complete** | One-tap toggle between **Complete** and **Incomplete** states. |
-| **FR7** | **View Tasks** | Dashboard displays **All / Today / Upcoming / Completed** filtered task views. |
+| **FR7** | **View Tasks** | Dashboard displays **All** tasks. |
 | **FR8** | **Real-Time Sync** | Updates are pushed instantly across **all connected devices**. |
 | **FR9** | **Mobile Support** | Fully **responsive interface** with offline caching and installation support (PWA). |
 | **FR10** | **User Logout**   | Ends the user session and **redirects** to the Login Screen. |

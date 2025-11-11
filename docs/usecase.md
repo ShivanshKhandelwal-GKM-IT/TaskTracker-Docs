@@ -74,9 +74,8 @@
 
 ---
 
-## Use Case Diagram
-
-![Task Tracker App Use Case Diagram](use case.png)
+![Task Tracker System Use Case Diagram](UseCase.png){ width="100%" style="max-width: 400px;" }
 
 ---
+**Next:** [Data Modelling →](DataModelling.md)
 
